@@ -1,1 +1,0 @@
-\e33c0bf9eabb79c0617979f1deee9a6b *distr\\copastimer-0.4.0-1.tar.gz
